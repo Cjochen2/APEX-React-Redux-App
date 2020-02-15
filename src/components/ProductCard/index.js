@@ -28,7 +28,7 @@ const ProductCard = (props) => {
 
 const mapDispatchToProps = (dispatch, ownProps) => {
     return {
-        addToCart: () => dispatch(purchasePart({ number: ownProps.number, price: ownProps.price }))
+        addToCart: () => dispatch(purchasePart({ partNo: ownProps.number, price: ownProps.price }))
     }
 }
 
