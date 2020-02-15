@@ -2,7 +2,7 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Cjochen2/APEX-React-Redux-App",
+  "homepage": "https://cjochen2.github.io/APEX-React-Redux-App/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.8.6",
