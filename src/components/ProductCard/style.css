@@ -1,0 +1,15 @@
+
+.productCard {
+    border-bottom: 1px solid #e7e7e7;
+    margin: 30px 0px;
+}
+
+.priceInfo {
+    color:#c90030;
+}
+
+.addCart {
+    background-color: #fdcc00;
+    border: none;
+    cursor: pointer;
+}
