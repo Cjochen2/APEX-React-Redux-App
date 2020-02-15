@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cjochen2/APEX-React-Redux-App/precache-manifest.de066ddc4d930c9f3fdd732a2891fe1a.js"
+  "/Cjochen2/APEX-React-Redux-App/precache-manifest.c878ab88e574b500664cbc84dec44e0d.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "761aaef9bcf2dbd4b58d",
-    "url": "/Cjochen2/APEX-React-Redux-App/static/css/main.cbe701ad.chunk.css"
+    "revision": "0de2b11ebd30f80faa74",
+    "url": "/Cjochen2/APEX-React-Redux-App/static/css/main.8c2e49b5.chunk.css"
   },
   {
-    "revision": "761aaef9bcf2dbd4b58d",
-    "url": "/Cjochen2/APEX-React-Redux-App/static/js/main.ba80de73.chunk.js"
+    "revision": "0de2b11ebd30f80faa74",
+    "url": "/Cjochen2/APEX-React-Redux-App/static/js/main.dac08336.chunk.js"
   },
   {
     "revision": "acc76b19748fbd3dee0b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Cjochen2/APEX-React-Redux-App/static/js/2.b368c606.chunk.js"
   },
   {
-    "revision": "587b5e68aef66f81123273bffe3668a6",
+    "revision": "57f873dc6d63fbf2aec86e4a04a2a2b6",
     "url": "/Cjochen2/APEX-React-Redux-App/index.html"
   }
 ];
