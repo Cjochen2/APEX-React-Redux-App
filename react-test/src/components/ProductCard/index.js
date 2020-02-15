@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import './style.css'
 
 // Added some bootstrap for some quick short hand styling as well as some basic CSS to make it resemble the PDF image
-// not an exact match but.... maybe close enough? Bootstrap also made it very easy to style responsive (which it is)
+// not an exact match but.... maybe close enough?
 
 const ProductCard = (props) => {
     return (
