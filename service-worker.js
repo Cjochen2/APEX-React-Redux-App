@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cjochen2/APEX-React-Redux-App/precache-manifest.c878ab88e574b500664cbc84dec44e0d.js"
+  "/APEX-React-Redux-App/precache-manifest.ba9a47ae154eff64fa447c257d036bf0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Cjochen2/APEX-React-Redux-App/index.html", {
+workbox.routing.registerNavigationRoute("/APEX-React-Redux-App/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
